@@ -1,6 +1,3 @@
-# text generator
-
-<br> Create really large frigging .txt files with any s i z e. Pretty useless, ikr but its just for fun cuz why not
 
 <br>Example 
 ```
